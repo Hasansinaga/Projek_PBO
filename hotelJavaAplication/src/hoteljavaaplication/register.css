@@ -1,0 +1,14 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+    
+.register-bg{
+    -fx-background-color: #30363f;
+}
+
+.register-card{
+    -fx-background-color: linear-gradient(to bottom right, #6a9ae7, #426fb1);
+}
+}

@@ -1,0 +1,23 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.sidebar{
+    -fx-background-color: #353A56;
+    -fx-border-width: 2px, 2px, 2px,2px;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+    -fx-border-style: solid; 
+    margin-right: 20px;
+}
+
+.pane{
+    -fx-background-color: #748CF1;
+    -fx-border-width: 2px, 2px, 2px,2px;
+    -fx-border-radius: 10px;
+    -fx-background-radius: 10px;
+    -fx-border-style: solid; 
+}
+.table{
+    margin-left: 20px;
+}
